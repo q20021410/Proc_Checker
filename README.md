@@ -1,2 +1,5 @@
 # Proc_Checker
-It periodically checks the processes that need to run in real time. If it is off, it will execute it by itself. - Practical code -
+It periodically checks the processes that need to run in real time.
+
+If it is off, it will execute it by itself. 
+- Practical code -
