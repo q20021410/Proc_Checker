@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proc_Checker", "Proc_Checker\Proc_Checker.csproj", "{F6BD2587-A148-48A5-89E7-9D21921EFA54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BD2587-A148-48A5-89E7-9D21921EFA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BD2587-A148-48A5-89E7-9D21921EFA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BD2587-A148-48A5-89E7-9D21921EFA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BD2587-A148-48A5-89E7-9D21921EFA54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BB2C61-0FAE-459A-A93C-1857B15F5165}
+	EndGlobalSection
+EndGlobal
