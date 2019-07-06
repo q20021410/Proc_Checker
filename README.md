@@ -2,4 +2,6 @@
 It periodically checks the processes that need to run in real time.
 
 If it is off, it will execute it by itself. 
--- Practical code --
+This is practical code
+
+![project](./pic.png)
